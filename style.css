@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color:black;
+    text-transform:uppercase;
+    font-family: sans-serif;
+    display:block;
+    width: 150px;
+    text-align: center;
+    margin: 10px
+}
+
+a:hover{
+    color:cornflowerblue
+}
+
+.top{
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+}
+
+.nav{
+    display:inline-block;
+}
+
+section{
+    width: 63%;
+    float: right;
+    padding: 0 20px;
+}
+
+aside{
+    width: 37%;
+    float: left;
+    padding: 0 20px;
+}
