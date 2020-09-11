@@ -5,19 +5,36 @@ a{
     text-decoration: none;
     color:black;
     text-transform:uppercase;
-    font-family:cursive
+    font-family:inherit;
     display:block;
     width: 150px;
     text-align: center;
-    margin: 10px
+    margin: 10px;
+}
+
+.center{
+    text-align: center;
+}
+hr{
+    width: 850px;
+    border-style: dashed;
+    color: #34afe0;
+    text-align: center;
 }
 
 a:hover{
-    color:cornflowerblue
+    color:#34afe0;
 }
 
 .top{
     text-align: center;
+}
+
+.main{
+    width:80%;
+    min-width: 300px;
+    margin: 0 auto;
+    display: block;
 }
 
 ul{
@@ -28,13 +45,16 @@ ul{
     display:inline-block;
 }
 
-section{
-    width: 63%;
-    float: right;
+.column{
+    font-size: 30px;
+    text-align: center;
+    padding: 0 20px;
 }
 
-aside{
-    width: 37%;
-    float: center;
-    padding: 20px
+.drawings{
+    text-align: center;
+}
+
+.otc{
+    text-align: center;
 }
