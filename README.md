@@ -1,2 +1,4 @@
 # Kmittleider.github.io
-My portfolio website
+My first portfolio website
+Project for LMC 2700: Intro to Computational Media
+Fall 2020
